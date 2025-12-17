@@ -2,7 +2,9 @@ flask==3.0.0
 python-dotenv==1.0.1
 pandas==2.2.2
 openai==1.23.2
+httpx==0.27.0
 pypdf==4.2.0
+
 
 # pip uninstall openai httpx -y
 # pip install openai==1.23.2 httpx==0.27.0
